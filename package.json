@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasBlanc/restaurant-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasBlanc/restaurant-menu/issues"
+  },
+  "homepage": "https://github.com/MatiasBlanc/restaurant-menu#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
